@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaunpaulsingh
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning Sprint + React.
+- 🌱 I’m currently learning Spring + React.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: shaunpaulsingh@gmail.com
 
